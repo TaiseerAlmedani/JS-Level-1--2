@@ -1,0 +1,21 @@
+// let result;
+// result = 2+58;
+// console.log(result);
+// result = 30 *2;
+// console.log(result);
+// const res = a + b;
+// console.log(res);
+// a = a + b;
+// console.log(a);
+// a += b;
+// console.log(a);
+result = 'this is an assigned string'
+// console.log(result);
+let a = 20;
+console.log(a);
+let b = 40;
+console.log(b);
+// a = a*b;
+a*=b;
+console.log(a);
+// console.log(b);
